@@ -6,9 +6,8 @@ permalink: /about/
 
 # 👋 Hi, I'm Hyo!
  
-🎓 **Seoultech**
+🎓 **[Seoultech](https://www.seoultech.ac.kr/)**  
 
-📧 **lovellehyo@gmail.com**
+📧 **[lovellehyo@gmail.com](mailto:lovellehyo@gmail.com)**  
 
-✏️ **https://hyo00.tistory.com/**
-
+✏️ **[hyo00.tistory.com](https://hyo00.tistory.com/)**
